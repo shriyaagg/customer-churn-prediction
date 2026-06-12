@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/shriyaagg/customer-churn/mlruns/934561875617777832/7f801fc3393a4fbfb462a83db24d4bfd/artifacts
+end_time: 1781297388392
+entry_point_name: ''
+experiment_id: '934561875617777832'
+lifecycle_stage: active
+run_id: 7f801fc3393a4fbfb462a83db24d4bfd
+run_name: sincere-squirrel-250
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781297388371
+status: 4
+tags: []
+user_id: shriyaagg

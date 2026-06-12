@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/shriyaagg/customer-churn/mlruns/934561875617777832/f2735cdd1ce84b0d9e09465cd8226de1/artifacts
+end_time: 1781297277459
+entry_point_name: ''
+experiment_id: '934561875617777832'
+lifecycle_stage: active
+run_id: f2735cdd1ce84b0d9e09465cd8226de1
+run_name: skittish-lark-595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781297277444
+status: 4
+tags: []
+user_id: shriyaagg
